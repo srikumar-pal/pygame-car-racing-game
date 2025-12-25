@@ -3,6 +3,13 @@
 A simple car racing game built using **Python** and **Pygame**.
 
 ---
+## 📸 Screenshots
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+![Game Over](screenshots/gameover.png)
 
 ## 🎮 Features
 - Player-controlled car
@@ -12,6 +19,10 @@ A simple car racing game built using **Python** and **Pygame**.
 - Game assets (car, road, sounds)
 
 ---
+## 🕹️ Controls
+- ⬅️ Left Arrow – Move Left  
+- ➡️ Right Arrow – Move Right
+  ---
 
 ## 🛠️ Technologies Used
 - Python
